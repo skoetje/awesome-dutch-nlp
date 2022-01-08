@@ -14,6 +14,7 @@ A curated list of Resources for Dutch natural language processing (NLP).
 ### Pretrained models
 - [RobBERT: Dutch RoBERTa-based Language Model.](https://github.com/iPieter/RobBERT) RobBERT is the state-of-the-art Dutch BERT model. It is a large pre-trained general Dutch language model that can be fine-tuned on a given dataset to perform any text classification, regression or token-tagging task.
 - [BERTje: A Dutch BERT model.](https://github.com/wietsedv/bertje) BERTje is a Dutch pre-trained BERT model developed at the University of Groningen.
+- [GPT-2 Recycled for Italian and Dutch](https://github.com/wietsedv/gpt2-recycle) a multi-stage adaptation method for transfering GPT-2 to Dutch without unnecessary retraining
 
 ### Domain specific / finte-tuned models
 - [belabBERT 🤧](https://github.com/Joppewouts/belabBERT) a RobBERT model fine-tuned to the classification of psychiatric illnesses
