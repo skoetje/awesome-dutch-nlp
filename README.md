@@ -31,8 +31,12 @@ A curated list of Resources for Dutch natural language processing (NLP).
 - [NLP with R part 5: State of the Art in NLP: Transformers & BERT](https://medium.com/broadhorizon-cmotions/nlp-with-r-part-5-state-of-the-art-in-nlp-transformers-bert-3449e3cd7494)
 
 # Misc
-- [Deduce: de-identification method for Dutch medical text](https://github.com/vmenger/deduce), a de-identification method for Dutch medical text
 
+- [Deduce: de-identification method for Dutch medical text](https://github.com/vmenger/deduce), a de-identification method for Dutch medical text
+- [Dutch word list](https://github.com/OpenTaal/opentaal-wordlist), by Stichting OpenTaal
+- [Leipzig Corpora Collection: Dutch Web text corpus based](https://wortschatz.uni-leipzig.de/en/download/Dutch), by Leipzig University
+- [Dutch spelling checker](https://github.com/OpenTaal/opentaal-hunspell), by Stichting OpenTaal
+- 
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
