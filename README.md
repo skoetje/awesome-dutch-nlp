@@ -36,7 +36,7 @@ A curated list of Resources for Dutch natural language processing (NLP).
 - [Dutch word list](https://github.com/OpenTaal/opentaal-wordlist), by Stichting OpenTaal
 - [Leipzig Corpora Collection: Dutch Web text corpus based](https://wortschatz.uni-leipzig.de/en/download/Dutch), by Leipzig University
 - [Dutch spelling checker](https://github.com/OpenTaal/opentaal-hunspell), by Stichting OpenTaal
-- 
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
